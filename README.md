@@ -8,44 +8,54 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=34b1eb&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Daniel+Guilherme;I'm+25+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<p align="center">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but al</p>
+<p align="center">I'm 25 years old, I'm from São Paulo Capital. Since I was a child, I've always been in contact with computers, I've always been curious to work with them and find out how software works. I always liked to try to create, modify, find bugs, or even use some hackers kkkk After completing High School I decided to pursue a career as a developer. Today I'm Dev. Front-End, but my future goal is to become a Dev. FullStack :).</p>
 
 <br>
 
 <div align="center" width="100%">
-  <h3 align="center">ESTATITICAS</h3>
-  <br>
-
-  <img width="70%" src="https://streak-stats.demolab.com/?user=Damniel-Guilherme&theme=transparent" alt="Dev.Damniel_Statistics" />
-  <img width="41%"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Damniel-Guilherme&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Dev.Damniel_Statistics" />  
-  <img width="49%" padding="0" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Damniel-Guilherme&show_icons=true&locale=en&theme=transparent" alt="Dev.Damniel_Statistics" />
+    <h3 align="center">Statistics</h3>
+    <br>
+    <img width="70%" src="https://streak-stats.demolab.com/?user=Damniel-Guilherme&theme=transparent" alt="Dev.Damniel_Statistics"/>
+    <img width="41%"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Damniel-Guilherme&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Dev.Damniel_Statistics"/>  
+    <img width="49%" padding="0" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Damniel-Guilherme&show_icons=true&locale=en&theme=transparent" alt="Dev.Damniel_Statistics"/>
 </div>
 
 <br>
 
-<h4 align="center">Conquistas</h4>
+<div align="center" width="100%">
+    <h3 align="center">Achievements</h3>
+    <br>
+    <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Damniel-Guilherme" alt="Dev.Damniel"/></a> </p>
+</div>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Damniel-Guilherme" alt="Dev.Damniel"/></a> </p>
+<br>
+
+<div align="center" width="100%">
+    <h3 align="center">Languages</h3>
+    <br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="45" height="45" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="git" width="45" height="45"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="45" height="45"/>
+</div>
+
+<br>
+
+<!-- <h3 align="center">Studying in this moment:</h3> -->
 
 <br>
 
 <div align="center"> 
-    <a href="https://instagram.com/carol_developer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-    <a href="https://www.youtube.com/channel/UCvFCatDtfdvwKKXkndSAPiw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-    <a href = "mailto:cmp.1a.caroline@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/carolbarbosa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+    <h3 align="center">Connect with me:</h3>
+    <br>
+    <a href="https://www.linkedin.com/in/damniel-guilherme-2b1600250" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="icon_linkedin"></a>
+    <a href="https://cursos.alura.com.br/vitrinedev/Damniel" target="_blank">
+    <img src="https://img.shields.io/badge/vitrine.dev-07283F?style=for-the-badge" alt="icon_vitrinedev"></a>
+    <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-0A182E?style=for-the-badge" alt="Dev.Damniel_Portifolio"></a>
  </div>
-
-<br>
-
-
-
-<h3 align="center">Studying in this moment:</h3>
-
-<br>
-
-<h3 align="center">Connect with me:</h3>
-
-
-
-
