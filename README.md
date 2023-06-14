@@ -1,14 +1,3 @@
-<style>
-
-h1 {
-    color: red;
-    padding: 60px;
-}
-
-</style>
-
-
-
 <h1 align="center">Hi, I am Damniel 👋</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Damniel-Guilherme&label=Profile%20views&color=0e75b6&style=flat" alt="Dev.Damniel-Guilherme" /> </p>
@@ -24,7 +13,7 @@ h1 {
 <br>
 
 
-<p>TEXT TEST</p>
+<p style="color: green">TEXT TEST</p>
 
 
 <h2 align="center">******</h2>
