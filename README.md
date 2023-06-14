@@ -53,10 +53,7 @@
 <div align="center"> 
     <h3 align="center">Connect with me:</h3>
     <br>
-    <a href="https://www.linkedin.com/in/damniel-guilherme-2b1600250" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="icon_linkedin"></a>
-    <a href="https://cursos.alura.com.br/vitrinedev/Damniel" target="_blank">
-    <img src="https://img.shields.io/badge/vitrine.dev-07283F?style=for-the-badge" alt="icon_vitrinedev"></a>
-    <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-0A182E?style=for-the-badge" alt="Dev.Damniel_Portifolio"></a>
+    <a href="https://www.linkedin.com/in/damniel-guilherme-2b1600250" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="icon_linkedin"></a>
+    <a href="https://cursos.alura.com.br/vitrinedev/Damniel" target="_blank"><img src="https://img.shields.io/badge/vitrine.dev-07283F?style=for-the-badge" alt="icon_vitrinedev"></a>
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-0A182E?style=for-the-badge" alt="icon_portifolio"></a>
  </div>
