@@ -13,7 +13,7 @@
 <br>
 
 <div align="center" width="100%">
-  <p> align="center">ESTATITICAS</p>
+  <h3 align="center">ESTATITICAS</h3>
 
   <img width="70%" src="https://streak-stats.demolab.com/?user=Damniel-Guilherme&theme=transparent" alt="Dev.Damniel_Statistics" />
   <img width="41%"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Damniel-Guilherme&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Dev.Damniel_Statistics" />  
