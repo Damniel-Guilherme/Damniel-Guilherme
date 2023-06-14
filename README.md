@@ -7,6 +7,8 @@ h1 {
     padding: 60px;
 }
 
+</style>
+
 
 <h1 align="center">Hi, I am Damniel 👋</h1>
 
