@@ -12,8 +12,7 @@
 
 <br>
 
-<p style="color:#34b1eb">TEXT TEST</p>
-
+<p style=color:#34b1eb>TEXT TEST</p>
 
 <h2 align="center">******</h2>
 
