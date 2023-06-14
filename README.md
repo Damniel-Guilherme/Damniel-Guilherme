@@ -14,6 +14,8 @@
 
 <p style=color:#34b1eb>TEXT TEST</p>
 
+- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
+
 <h2 align="center">******</h2>
 
 <div align="center" width="100%">
