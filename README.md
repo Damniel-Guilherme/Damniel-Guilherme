@@ -1,13 +1,12 @@
 <style>
-body {
-    background-image: url(https://e7.pngegg.com/pngimages/949/97/png-clipart-football-sport-own-goal-football-sports-equipment-sports-thumbnail.png);
-}
+
 h1 {
     color: red;
     padding: 60px;
 }
 
 </style>
+
 
 
 <h1 align="center">Hi, I am Damniel 👋</h1>
