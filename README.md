@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I am Damniel 👋</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Damniel-Guilherme&label=Profile%20views&color=0e75b6&style=flat" alt="Dev.Damniel-Guilherme" /> </p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Damniel-Guilherme&label=Profile%20views&color=0e75b6&style=flat" alt="Dev.Damniel-Guilherme"/></p>
 
 <h3 align="center">Welcome to my Github page!</h3>
 
@@ -25,7 +25,7 @@
 <div align="center" width="100%">
     <h3 align="center">Achievements</h3>
     <br>
-    <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Damniel-Guilherme" alt="Dev.Damniel"/></a> </p>
+    <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Damniel-Guilherme" alt="Dev.Damniel"/></a></p>
 </div>
 
 <br>
@@ -53,7 +53,7 @@
 <div align="center"> 
     <h3 align="center">Connect with me:</h3>
     <br>
-    <a href="https://www.linkedin.com/in/damniel-guilherme-2b1600250" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="icon_linkedin"></a>
-    <a href="https://cursos.alura.com.br/vitrinedev/Damniel" target="_blank"><img src="https://img.shields.io/badge/vitrine.dev-07283F?style=for-the-badge" alt="icon_vitrinedev"></a>
-    <a href="#" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-0A182E?style=for-the-badge" alt="icon_portifolio"></a>
+    <a href="https://www.linkedin.com/in/damniel-guilherme-2b1600250" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Dev.Damniel-Guilherme"></a>
+    <a href="https://cursos.alura.com.br/vitrinedev/Damniel" target="_blank"><img src="https://img.shields.io/badge/vitrine.dev-07283F?style=for-the-badge" alt="Dev.Damniel-Guilherme"></a>
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-0A182E?style=for-the-badge" alt="Dev.Damniel-Guilherme"></a>
  </div>
