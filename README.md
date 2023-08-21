@@ -3,9 +3,9 @@
 <h4 align="center">Welcome to my Github page!</h4>
 </div>
 
-<h1 align="center">Hi, I am Damniel 👋</h1>
+<h2 align="center"></h2>
+<h2 align="center">Hi, I am Damniel 👋</h2>
 
-<br>
 
 <div align="center" width="100%">
     <h4 align="center">Statistics</h4>
