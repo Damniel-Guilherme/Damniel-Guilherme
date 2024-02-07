@@ -4,7 +4,7 @@
 </div>
 
 <h2 align="center"></h2>
-<h2 align="center">Hi, I am Damniel 👋</h2>
+<h1 align="center">Hi, I am Damniel 👋</h1>
 
 
 <div align="center" width="100%">
