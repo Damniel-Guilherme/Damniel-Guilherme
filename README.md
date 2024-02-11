@@ -51,7 +51,7 @@
 
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 8px;">
 <h3>RoadMap</h3>
-<strong>Trilha de Estudo Utilizada nos estudos</strong>
+<strong>Trilha Front-End JR 2024, Utilizada nos Estudos</strong>
 
 <div>
 <a href="https://drive.google.com/file/d/1P7vCxzEaYgvaXeu7FwJw4Fsfe_qezzb4/view?usp=sharing">
