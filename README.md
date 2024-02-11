@@ -38,22 +38,6 @@
 
 <br>
 
-<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 8px;">
-
-<h3>RoadMap</h3>
-<strong>Trilha de Estudo Utilizada nos estudos</strong>
-
-<a href="https://drive.google.com/file/d/1P7vCxzEaYgvaXeu7FwJw4Fsfe_qezzb4/view?usp=sharing">
-            <img src="https://i.imgur.com/BixrBQS.png" alt="Descrição da imagem" width="350">
-        </a>
-
-[Clique Aki Para Visualizar](https://drive.google.com/file/d/1P7vCxzEaYgvaXeu7FwJw4Fsfe_qezzb4/view?usp=sharing)
-</div>
-
-
-
-
-
 ##
 
 <div align="center"> 
@@ -62,3 +46,19 @@
     <a href="https://cursos.alura.com.br/vitrinedev/Damniel" target="_blank"><img src="https://img.shields.io/badge/vitrine.dev-07283F?style=for-the-badge" alt="Dev.Damniel-Guilherme"></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-0A182E?style=for-the-badge" alt="Dev.Damniel-Guilherme"></a>
  </div>
+
+##
+
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 8px;">
+<h3>RoadMap</h3>
+<strong>Trilha de Estudo Utilizada nos estudos</strong>
+
+<div>
+<a href="https://drive.google.com/file/d/1P7vCxzEaYgvaXeu7FwJw4Fsfe_qezzb4/view?usp=sharing">
+<img src="https://i.imgur.com/BixrBQS.png" alt="Descrição da imagem" width="350"></a>
+
+[Clique Aki Para Visualizar](https://drive.google.com/file/d/1P7vCxzEaYgvaXeu7FwJw4Fsfe_qezzb4/view?usp=sharing)
+</div>
+
+</div>
+
