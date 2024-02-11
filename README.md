@@ -55,13 +55,13 @@
 <h3>RoadMap</h3>
 <strong>Trilha Front-End JR 2024, Utilizada nos Estudos</strong>
 
-<div>
+
 <a href="https://drive.google.com/file/d/1P7vCxzEaYgvaXeu7FwJw4Fsfe_qezzb4/view?usp=sharing" target="_blank">
-  <img src="https://i.imgur.com/BixrBQS.png" alt="Descrição da imagem" width="350">
+  <img src="https://i.imgur.com/BixrBQS.png" alt="RoadMap" width="350">
 </a>
 
 <a href="https://drive.google.com/file/d/1P7vCxzEaYgvaXeu7FwJw4Fsfe_qezzb4/view?usp=sharing" target="_blank">Clique Aqui Para Visualizar</a>
-</div>
+
 
 </div>
 
