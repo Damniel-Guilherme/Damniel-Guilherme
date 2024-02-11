@@ -1,6 +1,6 @@
 <div>
-<p align="end"><img src="https://komarev.com/ghpvc/?username=Damniel-Guilherme&label=Profile%20views&color=0e75b6&style=flat" alt="Dev.Damniel-Guilherme"/></p>
-<h4 align="center">Welcome to my Github page!</h4>
+    <p align="end"><img src="https://komarev.com/ghpvc/?username=Damniel-Guilherme&label=Profile%20views&color=0e75b6&style=flat" alt="Dev.Damniel-Guilherme"/></p>
+    <h4 align="center">Welcome to my Github page!</h4>
 </div>
 
 <h2 align="center"></h2>
@@ -24,21 +24,33 @@
 <br>
 
 <div align="center" width="100%">
-<h4>Languages and Tools:</h4>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="git" width="45" height="45"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="45" height="45"/>
+    <h4>Languages and Tools:</h4>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="45" height="45" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="git" width="45" height="45"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="45" height="45"/>
 </div>
 
 <br>
 
-###### RoadMap > em breve será postado!
+
+<div style="text-align: center;">
+<h3>RoadMap</h3>
+<strong>Trilha de Estudo Utilizada nos estudos</strong>
+
+<a href="https://drive.google.com/file/d/1P7vCxzEaYgvaXeu7FwJw4Fsfe_qezzb4/view?usp=sharing">
+<img src="https://i.imgur.com/BixrBQS.png" alt="Descrição da imagem" width="350">
+</a>
+
+[Clique Aki Para Visualizar](https://drive.google.com/file/d/1P7vCxzEaYgvaXeu7FwJw4Fsfe_qezzb4/view?usp=sharing)
+</div>
+
+
 
 ##
 
