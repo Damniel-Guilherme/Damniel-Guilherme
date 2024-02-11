@@ -1,6 +1,9 @@
 <div>
-    <p align="end"><img src="https://komarev.com/ghpvc/?username=Damniel-Guilherme&label=Profile%20views&color=0e75b6&style=flat" alt="Dev.Damniel-Guilherme"/></p>
-    <h4 align="center">Welcome to my Github page!</h4>
+<p align="end">
+  <img src="https://komarev.com/ghpvc/?username=Damniel-Guilherme&label=Profile%20views&color=0e75b6&style=flat" alt="Dev.Damniel-Guilherme" style="pointer-events: none;"/>
+</p>
+
+<h4 align="center">Welcome to my Github page!</h4>
 </div>
 
 <h2 align="center"></h2>
@@ -9,16 +12,16 @@
 
 <div align="center" width="100%">
     <h4 align="center">Statistics</h4>
-    <img width="60%" src="https://streak-stats.demolab.com/?user=Damniel-Guilherme&theme=transparent" alt="Dev.Damniel_Statistics"/>
-    <img width="45.5%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Damniel-Guilherme&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Dev.Damniel_Statistics"/>  
-    <img width="51%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Damniel-Guilherme&show_icons=true&locale=en&theme=transparent" alt="Dev.Damniel_Statistics"/>
+    <img width="60%" src="https://streak-stats.demolab.com/?user=Damniel-Guilherme&theme=transparent" alt="Dev.Damniel_Statistics" style="pointer-events: none;"/>
+    <img width="45.5%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Damniel-Guilherme&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Dev.Damniel_Statistics" style="pointer-events: none;"/>  
+    <img width="51%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Damniel-Guilherme&show_icons=true&locale=en&theme=transparent" alt="Dev.Damniel_Statistics" style="pointer-events: none;"/>
 </div>
 
 <br>
 
 <div align="center" width="100%">
     <h4 align="center">Achievements</h4>
-    <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Damniel-Guilherme" alt="Dev.Damniel"/></a></p>
+    <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Damniel-Guilherme" alt="Dev.Damniel" style="pointer-events: none;"/></a></p>
 </div>
 
 <br>
@@ -57,10 +60,9 @@
 
 <div>
 <a href="https://drive.google.com/file/d/1P7vCxzEaYgvaXeu7FwJw4Fsfe_qezzb4/view?usp=sharing" target="_blank">
-  <img src="https://i.imgur.com/BixrBQS.png" alt="RoadMap" width="350">
+  <img src="https://i.imgur.com/BixrBQS.png" alt="RoadMap" width="350" style="pointer-events: none;">
 </a>
     
 <a href="https://drive.google.com/file/d/1P7vCxzEaYgvaXeu7FwJw4Fsfe_qezzb4/view?usp=sharing" target="_blank">Clique Aqui Para Visualizar</a>
 </div
 </div>
-
